@@ -1,2 +1,0 @@
-# AngularTicTacToe
-Learning Angular

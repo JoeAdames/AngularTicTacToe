@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "attt-23ea4"
+  },
+  "targets": {
+    "attt-23ea4": {
+      "hosting": {
+        "Attt": [
+          "attt-23ea4"
+        ]
+      }
+    }
+  }
+}
